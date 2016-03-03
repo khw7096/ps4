@@ -1,0 +1,69 @@
+{
+	"name": "web",
+	"tag": "web",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 1 -": [
+					"mou 1 - 6"
+				],
+				"axi 1 +": [
+					"mou 1 + 6"
+				],
+				"axi 0 -": [
+					"mou 0 - 6"
+				],
+				"axi 0 +": [
+					"mou 0 + 6"
+				],
+				"btn 1": [
+					"mbt 0"
+				],
+				"btn 2": [
+					"mbt 1"
+				],
+				"axi 3 -": [
+					"key 78"
+				],
+				"btn 4": [
+					"key 75"
+				],
+				"btn 0": [
+					"key 41"
+				],
+				"axi 2 -": [
+					"key 231",
+					"key 47"
+				],
+				"axi 2 +": [
+					"key 231",
+					"key 48"
+				],
+				"axi 4 -": [
+					"key 231",
+					"key 46"
+				],
+				"btn 5": [
+					"key 231",
+					"key 45"
+				],
+				"btn 13": [
+					"key 225",
+					"key 227",
+					"key 49"
+				],
+				"btn 3": [
+					"key 227",
+					"key 26"
+				],
+				"axi 5 +": [
+					"whe 1 + 6"
+				],
+				"axi 5 -": [
+					"whe 1 - 6"
+				]
+			}
+		}
+	]
+}
