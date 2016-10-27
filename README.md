@@ -1,5 +1,7 @@
-# mame
-- http://sdlmame.lngn.net
+# PS4
+- I use joystickmapper app for Codereview.
+- This repository is my preset iMac with ps4 controller.
+- Preset file path : `~/Library/Application Support/Joystick Mapper/presets`
 
 # 최초 연결법
 - usb를 연결한다.
@@ -10,8 +12,17 @@
 
 # ppsspp
 - http://www.ppsspp.org
+# mame
+- http://sdlmame.lngn.net
 
-# ps4 controller for imac
+
+#### Application Homepage
 - joystickmapper : http://joystickmapper.com
-- preset : http://www.chibatacreations.com/forum/viewforum.php?f=12
-- preset file path : `~/Library/Application Support/Joystick Mapper/presets`
+
+#### Preset Site
+- http://www.chibatacreations.com/forum/viewforum.php?f=12
+
+#### etc... game.. blabla
+- mame : http://sdlmame.lngn.net
+- ppsspp : http://www.ppsspp.org
+
