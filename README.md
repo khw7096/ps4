@@ -29,3 +29,5 @@
 #### Gamepad API
 - https://gamedevelopment.tutsplus.com/tutorials/using-the-html5-gamepad-api-to-add-controller-support-to-browser-games--cms-21345
 
+#### Make Media Server
+- https://www.plex.tv/
