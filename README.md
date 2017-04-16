@@ -10,11 +10,11 @@
 - share + ps 버튼을 동시에 누르면 고속으로 깜빡인다.
 - 페어링 한다.
 
-# ppsspp
-- http://www.ppsspp.org
-# mame
-- http://sdlmame.lngn.net
 
+#### 에뮬레이터 정보
+- ppsspp : http://www.ppsspp.org
+- mame : http://sdlmame.lngn.net
+- openemu : http://openemu.org
 
 #### Application Homepage
 - joystickmapper : http://joystickmapper.com
